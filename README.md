@@ -48,6 +48,3 @@ An intelligent machine learning-based system designed to detect and classify Dis
 - Efficient classification of network traffic patterns.
 - Enhanced cybersecurity monitoring capabilities.
 
-pip install -r requirements.txt
-
-python app.py
